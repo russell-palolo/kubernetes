@@ -1,0 +1,11 @@
+annotationFilter: "dns=enabled"
+
+cloudflare:
+  secretName: cloudflare-api-token
+
+logLevel: debug
+
+provider: cloudflare
+
+sources:
+  - ingress

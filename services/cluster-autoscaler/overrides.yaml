@@ -1,0 +1,8 @@
+awsRegion: us-west-2
+autoDiscovery:
+  clusterName: palolo-root
+
+cloudProvider: aws
+podAnnotations:
+  fluentbit.io/exclude: "true"
+replicaCount: 2

@@ -1,0 +1,3 @@
+collectors:
+  certificatesigningrequests: false
+  ingresses: false

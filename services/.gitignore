@@ -1,0 +1,4 @@
+**/base/*-manifest.yaml
+**/base/*-values.yaml
+**/.chart
+**/.templates
